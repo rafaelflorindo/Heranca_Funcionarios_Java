@@ -17,10 +17,16 @@ Simular um sistema de cadastro de funcionários utilizando herança. A estrutura
 - Git e GitHub
 
 ## 🧱 Estrutura do Projeto
-
-Heranca_Funcionarios_Java/ │ ├── src/ │ └── funcionarios/ │ ├── Funcionario.java │ ├── Gerente.java │ ├── Programador.java │ └── Main.java │ └── Heranca_Funcionarios_Java.iml
-
-
+```
+Heranca_Funcionarios_Java/
+│ ├── src/
+│ └── funcionarios/
+│ ├── Funcionario.java
+│ ├── Gerente.java
+│ ├── Programador.java
+│ └── Main.java
+│ └── Heranca_Funcionarios_Java.iml
+```
 
 ## 🔍 Conceitos aplicados
 
@@ -43,3 +49,4 @@ Heranca_Funcionarios_Java/ │ ├── src/ │ └── funcionarios/ │ �
 📌 Observações
 Este projeto faz parte de uma sequência de exercícios práticos realizados em sala de aula na disciplina de Programação Orientada a Objetos. Outros exemplos estão disponíveis no meu perfil do GitHub.
 
+Desenvolvido por Rafael Florindo - 2025 ✨
