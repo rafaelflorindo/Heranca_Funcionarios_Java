@@ -1,4 +1,8 @@
 # Herança - Funcionários em Java 🧑‍💻
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/rafaelflorindo/Heranca_Funcionarios_Java?style=for-the-badge)
 
 Este projeto foi desenvolvido durante as aulas da disciplina de Programação Orientada a Objetos, com o objetivo de praticar os conceitos de **herança**, **encapsulamento** e **polimorfismo** em Java.
 
