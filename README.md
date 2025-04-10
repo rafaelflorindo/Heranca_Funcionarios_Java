@@ -35,3 +35,11 @@ Heranca_Funcionarios_Java/ │ ├── src/ │ └── funcionarios/ │ �
 1. Clone o repositório:
    ```bash
    git clone https://github.com/rafaelflorindo/Heranca_Funcionarios_Java.git
+
+2. Abra o projeto em sua IDE Java.
+
+3. Compile e execute a classe Main.java para ver o resultado.
+
+📌 Observações
+Este projeto faz parte de uma sequência de exercícios práticos realizados em sala de aula na disciplina de Programação Orientada a Objetos. Outros exemplos estão disponíveis no meu perfil do GitHub.
+
